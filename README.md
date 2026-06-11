@@ -38,7 +38,7 @@ Connecting the XKC-Y25-V sensor
 ![Connecting the XKC-Y25-V sensor ](bochka/photos/1781182154786.jpg)
 
 The system is on a barrel
-![The system is on a barrel](bochka/photos/1000013495.jpg.jpg)
+![The system is on a barrel](bochka/photos/1000013495.jpg)
 
 
 
