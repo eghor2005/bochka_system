@@ -27,7 +27,7 @@ This delay logic prevents the pump from short-cycling and protects it from damag
 | Relay VCC | 5V |
 | Relay GND | GND |
 
-> **Note:** The code enables the internal pull-up resistor on the sensor pin, so no external resistor is needed.
+> **Note:** The internal pull-up resistor of the Arduino is enabled in the software (digitalWrite(SENSOR_PIN, HIGH)), so no external resistor is required between the sensor and the Arduino.
 
 ## Sensor logic
 
