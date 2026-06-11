@@ -1,6 +1,6 @@
 # bochka_system
 
-The Arduino board interacts with the XKC-Y25-V sensor and turns on any type of pump via the SSP relay. It was originally designed for a 50-liter barrel.
+The Arduino board interacts with the XKC-Y25-V sensor and turns on any type of pump via the SSR relay. It was originally designed for a 50-liter barrel.
 
 ## How it works
 
@@ -12,7 +12,7 @@ This delay logic prevents the pump from short-cycling and protects it from damag
 
 - Arduino board (Uno, Nano, Mega, etc.)
 - XKC-Y25-V non-contact liquid level sensor
-- SSP relay (or any compatible relay module)
+- SSR relay (or any compatible relay module)
 - Pump (12V/220V depending on your setup)
 - 50-liter barrel (or any water container)
 
@@ -21,7 +21,7 @@ This delay logic prevents the pump from short-cycling and protects it from damag
 | Component | Arduino Pin |
 |-----------|-------------|
 | XKC-Y25-V signal (yellow wire) | Digital Pin 2 |
-| SSP relay control pin | Digital Pin 3 |
+| SSR relay control pin | Digital Pin 3 |
 | XKC-Y25-V VCC | 5V |
 | XKC-Y25-V GND | GND |
 | Relay VCC | 5V |
