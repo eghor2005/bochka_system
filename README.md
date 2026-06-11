@@ -30,9 +30,9 @@ This delay logic prevents the pump from short-cycling and protects it from damag
 > **Note:** The internal pull-up resistor of the Arduino is enabled in the software (digitalWrite(SENSOR_PIN, HIGH)), so no external resistor is required between the sensor and the Arduino.
 
 ## Example of Installation
-![The system is in a small case](photos/hand_drawn_wiring.jpg)
-![Connecting the XKC-Y25-V sensor ](photos/hand_drawn_wiring.jpg)
-![The system is on a barrel](photos/hand_drawn_wiring.jpg)
+![The system is in a small case](photos/1781182154786.jpg)
+![Connecting the XKC-Y25-V sensor ](photos/1781182154777.jpg)
+![The system is on a barrel](photos/1781182154777.jpg)
 
 
 
