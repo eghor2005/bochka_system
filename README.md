@@ -1,5 +1,5 @@
 # bochka_system
-
+The "bochka" (or the "бочка") is a barrel in Russian.
 The Arduino board interacts with the XKC-Y25-V sensor and turns on any type of pump via the SSR relay. It was originally designed for a 50-liter barrel.
 
 ## How it works
