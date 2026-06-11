@@ -20,7 +20,7 @@ This delay logic prevents the pump from short-cycling and protects it from damag
 
 | Component | Arduino Pin |
 |-----------|-------------|
-| XKC-Y25-V signal (yellow wire) | Digital Pin 2 |
+| XKC-Y25-V signal | Digital Pin 2 |
 | SSR relay control pin | Digital Pin 3 |
 | XKC-Y25-V VCC | 5V |
 | XKC-Y25-V GND | GND |
